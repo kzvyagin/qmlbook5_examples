@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/triangle_red.png</file>
+    </qresource>
+</RCC>
