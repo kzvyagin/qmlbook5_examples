@@ -13,7 +13,10 @@ HEADERS += \
 DISTFILES += \
     assets/triangle_red.png \
     qml/pages/example_4_1.qml \
-    qml/pages/example_4_2.qml \
+    qml/pages/example_4_1_1.qml \
+    qml/pages/example_4_1_2.qml \
+    qml/pages/example_4_2_2.qml \
+    qml/pages/example_4_2_3.qml \
    rpm/ru.template.qmlbook5_chapter4.spec \
 
 AURORAAPP_ICONS = 86x86 108x108 128x128 172x172
