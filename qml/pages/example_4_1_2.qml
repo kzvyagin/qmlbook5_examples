@@ -3,7 +3,7 @@ import Sailfish.Silica 1.0
 
 
 Page {
-    objectName: "exmple_4_1_2"
+    objectName: "example_4_1_2"
     allowedOrientations: Orientation.All
     Text{
         id: label
