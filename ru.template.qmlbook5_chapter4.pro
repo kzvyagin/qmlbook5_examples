@@ -12,6 +12,7 @@ HEADERS += \
 
 DISTFILES += \
     assets/triangle_red.png \
+    qml/pages/Button2For43.qml \
     qml/pages/ButtonFor43.qml \
     qml/pages/example_4_1.qml \
     qml/pages/example_4_1_1.qml \

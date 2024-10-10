@@ -1,5 +1,7 @@
 import QtQuick 2.0
 Item{
+    property alias text: textButton.text
+    property alias textStatus: status.text
     anchors.fill: parent
     Rectangle {
         id: button
@@ -8,6 +10,7 @@ Item{
         color: "lightblue"
         border.color: "blue"
         Text{
+            id: textButton
             anchors.centerIn: parent
             text: "Start"
         }
