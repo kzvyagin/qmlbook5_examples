@@ -14,6 +14,7 @@ DISTFILES += \
     assets/triangle_red.png \
     qml/pages/Button2For43.qml \
     qml/pages/ButtonFor43.qml \
+    qml/pages/ClickableImage44.qml \
     qml/pages/example_4_1.qml \
     qml/pages/example_4_1_1.qml \
     qml/pages/example_4_1_2.qml \
@@ -22,6 +23,7 @@ DISTFILES += \
     qml/pages/example_4_2_4.qml \
     qml/pages/example_4_2_5.qml \
     qml/pages/example_4_3.qml \
+    qml/pages/example_4_4.qml \
     qml/pages/example_4_template.qml \
    rpm/ru.template.qmlbook5_chapter4.spec \
 
