@@ -32,6 +32,14 @@
     </message>
 </context>
 <context>
+    <name>BlueSquare</name>
+    <message>
+        <location filename="../qml/pages/BlueSquare.qml" line="13"/>
+        <source>text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DefaultCoverPage</name>
     <message>
         <location filename="../qml/cover/DefaultCoverPage.qml" line="10"/>
@@ -42,7 +50,7 @@
 <context>
     <name>MainPage</name>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="11"/>
+        <location filename="../qml/pages/MainPage.qml" line="12"/>
         <source>QmlBookExample</source>
         <translation>QmlBookExample</translation>
     </message>

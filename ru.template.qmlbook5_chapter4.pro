@@ -29,6 +29,7 @@ DISTFILES += \
     qml/pages/example_4_4.qml \
     qml/pages/example_4_5.qml \
     qml/pages/example_4_5_2.qml \
+    qml/pages/example_4_6.qml \
     qml/pages/example_4_template.qml \
    rpm/ru.template.qmlbook5_chapter4.spec \
 
