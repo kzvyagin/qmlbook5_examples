@@ -18,6 +18,8 @@ DISTFILES += \
     qml/pages/ClickableImage44.qml \
     qml/pages/GreenSquare.qml \
     qml/pages/RedSquare.qml \
+    qml/pages/TLineEditV1.qml \
+    qml/pages/TTextEdit473.qml \
     qml/pages/example_4_1.qml \
     qml/pages/example_4_1_1.qml \
     qml/pages/example_4_1_2.qml \
@@ -30,6 +32,9 @@ DISTFILES += \
     qml/pages/example_4_5.qml \
     qml/pages/example_4_5_2.qml \
     qml/pages/example_4_6.qml \
+    qml/pages/example_4_7.qml \
+    qml/pages/example_4_7_2.qml \
+    qml/pages/example_4_7_3.qml \
     qml/pages/example_4_template.qml \
    rpm/ru.template.qmlbook5_chapter4.spec \
 
