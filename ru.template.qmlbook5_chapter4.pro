@@ -37,6 +37,7 @@ DISTFILES += \
     qml/chapter4/example_4_7_3.qml \
     qml/chapter4/example_4_7_4.qml \
     qml/chapter4/example_4_template.qml \
+    qml/chapter5/example_5_1.qml \
     rpm/ru.template.qmlbook5_chapter4.spec \
 
 AURORAAPP_ICONS = 86x86 108x108 128x128 172x172
