@@ -34,7 +34,7 @@
 <context>
     <name>BlueSquare</name>
     <message>
-        <location filename="../qml/pages/BlueSquare.qml" line="13"/>
+        <location filename="../qml/chapter4/BlueSquare.qml" line="13"/>
         <source>text</source>
         <translation type="unfinished"></translation>
     </message>
