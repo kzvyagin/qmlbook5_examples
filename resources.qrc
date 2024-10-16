@@ -3,5 +3,8 @@
         <file>assets/triangle_red.png</file>
         <file>assets/rectangle.png</file>
         <file>assets/circle_pink.png</file>
+        <file>assets/rectangle_red.png</file>
+        <file>assets/rectangle_green.png</file>
+        <file>assets/rectangle_blue.png</file>
     </qresource>
 </RCC>

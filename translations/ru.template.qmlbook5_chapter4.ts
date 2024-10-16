@@ -40,6 +40,14 @@
     </message>
 </context>
 <context>
+    <name>ClickableImageV2</name>
+    <message>
+        <location filename="../qml/chapter5/ClickableImageV2.qml" line="29"/>
+        <source>text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DefaultCoverPage</name>
     <message>
         <location filename="../qml/cover/DefaultCoverPage.qml" line="10"/>
