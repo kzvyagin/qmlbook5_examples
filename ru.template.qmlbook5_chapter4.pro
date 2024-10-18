@@ -40,6 +40,8 @@ DISTFILES += \
     qml/chapter5/ClickableImageV2.qml \
     qml/chapter5/example_5_1.qml \
     qml/chapter5/example_5_1_2.qml \
+    qml/chapter5/example_5_1_3.qml \
+    qml/chapter5/example_5_1_4.qml \
     rpm/ru.template.qmlbook5_chapter4.spec \
 
 AURORAAPP_ICONS = 86x86 108x108 128x128 172x172

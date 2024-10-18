@@ -6,5 +6,6 @@
         <file>assets/rectangle_red.png</file>
         <file>assets/rectangle_green.png</file>
         <file>assets/rectangle_blue.png</file>
+        <file>assets/ufo.png</file>
     </qresource>
 </RCC>
