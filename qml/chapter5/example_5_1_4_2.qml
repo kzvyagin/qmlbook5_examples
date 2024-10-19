@@ -115,6 +115,7 @@ Page {
             properties: "x"
             to: rootField.width -ball.width
             duration: rootField.duration
+            easing.type: Easing.OutCubic;
         }
         RotationAnimation{
             target: ball
