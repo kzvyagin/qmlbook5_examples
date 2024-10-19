@@ -44,7 +44,8 @@ Page {
                     ball.y = rootField.height -ball.height
                     ball.rotation = 0
                     //anim1.restart()
-                    anim2.restart()
+                    //anim2.restart()
+                    anim3.restart()
                 }
             }
         }
@@ -91,4 +92,36 @@ Page {
             duration: rootField.duration
         }
     }
+
+    ParallelAnimation{
+        id: anim3
+        SequentialAnimation{
+
+            NumberAnimation{
+                target: ball
+                properties: "y"
+                to: 20
+                duration: rootField.duration *0.4
+            }
+            NumberAnimation{
+                target: ball
+                properties: "y"
+                to: rootField.height -ball.height
+                duration: rootField.duration *0.6
+            }
+        }
+        NumberAnimation{
+            target: ball
+            properties: "x"
+            to: rootField.width -ball.width
+            duration: rootField.duration
+        }
+        RotationAnimation{
+            target: ball
+            properties: "rotation"
+            to: 720
+            duration: rootField.duration
+        }
+    }
+
 }
