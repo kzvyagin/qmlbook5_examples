@@ -46,6 +46,7 @@ DISTFILES += \
     qml/chapter5/example_5_1_4_2.qml \
     qml/chapter5/example_5_2_1.qml \
     qml/chapter5/example_5_2_2.qml \
+    qml/chpater6/RadioButtons.qml \
     rpm/ru.template.qmlbook5_chapter4.spec \
 
 AURORAAPP_ICONS = 86x86 108x108 128x128 172x172
