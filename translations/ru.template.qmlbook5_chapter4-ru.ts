@@ -34,7 +34,7 @@
 <context>
     <name>BlueBox</name>
     <message>
-        <location filename="../qml/chapter7/BlueBox.qml" line="13"/>
+        <location filename="../qml/chapter7/BlueBox.qml" line="12"/>
         <source>text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -61,6 +61,14 @@
         <location filename="../qml/cover/DefaultCoverPage.qml" line="10"/>
         <source>QmlBookExample</source>
         <translation>QmlBookExample</translation>
+    </message>
+</context>
+<context>
+    <name>GreenBox</name>
+    <message>
+        <location filename="../qml/chapter7/GreenBox.qml" line="15"/>
+        <source>text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
