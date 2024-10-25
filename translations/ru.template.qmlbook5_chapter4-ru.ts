@@ -79,4 +79,12 @@
         <translation>QmlBookExample</translation>
     </message>
 </context>
+<context>
+    <name>YellowBox</name>
+    <message>
+        <location filename="../qml/chapter7/YellowBox.qml" line="12"/>
+        <source>text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>
