@@ -8,5 +8,9 @@
         <file>assets/rectangle_blue.png</file>
         <file>assets/ufo.png</file>
         <file>assets/ball.png</file>
+        <file>assets/earth.png</file>
+        <file>assets/mars.png</file>
+        <file>assets/venus.png</file>
+        <file>assets/mercury.png</file>
     </qresource>
 </RCC>
