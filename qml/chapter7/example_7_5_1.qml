@@ -1,6 +1,7 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 
+// TODO make thouse examples https://habr.com/ru/articles/190090/
 
 Page {
     objectName: "example_7_5_1"

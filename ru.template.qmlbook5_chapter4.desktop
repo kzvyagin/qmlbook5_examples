@@ -7,7 +7,7 @@ Name=QmlBookExample
 Name[ru]=QmlBookExample
 
 [X-Application]
-Permissions=PushNotifications;DeviceInfo;RemovableMedia;UserDirs
+Permissions=PushNotifications;DeviceInfo;RemovableMedia;Internet;UserDirs
 OrganizationName=ru.template
 ApplicationName=qmlbook5_chapter4
 ExecDBus=/usr/bin/ru.template.qmlbook5_chapter4
