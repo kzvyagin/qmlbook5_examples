@@ -29,6 +29,12 @@ Page {
                         source: imageSource
                     }
                 }
+                MouseArea{
+                    anchors.fill: parent
+                    onClicked: {
+                        console.log(description)
+                    }
+                }
             }
         }
 
@@ -38,6 +44,7 @@ Page {
             query: "/rss/channel/item"
             XmlRole {name: "title" ; query: "title/string()"}
             XmlRole {name: "imageSource" ; query:"enclosure/string(@url)" }
+            XmlRole {name: "description" ; query: "description/string()"}
         }
 
         ListView{
