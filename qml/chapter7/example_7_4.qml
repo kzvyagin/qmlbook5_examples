@@ -3,7 +3,7 @@ import Sailfish.Silica 1.0
 
 
 Page {
-    objectName: "example_7_3"
+    objectName: "example_7_4"
     allowedOrientations: Orientation.All
     Rectangle{
         width: 120

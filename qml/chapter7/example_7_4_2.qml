@@ -3,7 +3,7 @@ import Sailfish.Silica 1.0
 
 
 Page {
-    objectName: "example_7_3"
+    objectName: "example_7_4_2"
     allowedOrientations: Orientation.All
     Rectangle{
         scale: 1.5
@@ -137,10 +137,10 @@ Page {
                    State {
                        name: "expanded"
                        PropertyChanges { target: wrapper; height: listView.height       }
-                       PropertyChanges { target: image; width: listView.width; height: listView.width; anchors.rightMargin: 0; anchors.topMargin: 30        }
+                       //PropertyChanges { target: image; width: listView.width; height: listView.width; anchors.rightMargin: 0; anchors.topMargin: 30        }
                        PropertyChanges { target: factsView; opacity: 1        }
                        PropertyChanges { target: closeButton; opacity:1        }
-                       PropertyChanges { target: wrapper.ListView.view; contentY: wrapper.y; interactive:false }
+                      // PropertyChanges { target: wrapper.ListView.view; contentY: wrapper.y; interactive:false }
                    }
                ]
            }
