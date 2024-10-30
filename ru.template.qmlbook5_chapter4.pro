@@ -66,6 +66,7 @@ DISTFILES += \
     qml/chapter7/example_7_5_3.qml \
     qml/chapter7/example_7_5_4.qml \
     qml/chapter7/example_7_5_5.qml \
+    qml/chapter7/example_7_5_6.qml \
     qml/chpater6/RadioButtons.qml \
     rpm/ru.template.qmlbook5_chapter4.spec \
 
