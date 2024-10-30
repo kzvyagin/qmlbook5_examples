@@ -6,6 +6,7 @@ Rectangle {
     color: "#11AAFF"
     border.color: Qt.lighter(color)
     property alias text: textBox.text
+    property alias fontColor: textBox.color
     Text {
         id: textBox
         anchors.centerIn: parent
