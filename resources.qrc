@@ -12,5 +12,6 @@
         <file>assets/mars.png</file>
         <file>assets/venus.png</file>
         <file>assets/mercury.png</file>
+        <file>assets/colors.json</file>
     </qresource>
 </RCC>

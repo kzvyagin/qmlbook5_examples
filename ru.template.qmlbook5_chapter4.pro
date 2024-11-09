@@ -13,6 +13,7 @@ HEADERS += \
 DISTFILES += \
     assets/triangle_red.png \
     qml/chapter13/example_13_3.qml \
+    qml/chapter13/example_13_4.qml \
     qml/chapter4/BlueSquare.qml \
     qml/chapter4/Button2For43.qml \
     qml/chapter4/ButtonFor43.qml \

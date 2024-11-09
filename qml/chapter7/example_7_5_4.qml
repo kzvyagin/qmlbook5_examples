@@ -6,6 +6,7 @@ Page {
     objectName: "example_7_3"
     allowedOrientations: Orientation.All
     Rectangle{
+        scale: 2
         id: rootRect
         anchors.centerIn: parent
         width: 400;height: 400
