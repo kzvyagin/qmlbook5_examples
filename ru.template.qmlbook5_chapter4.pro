@@ -3,6 +3,14 @@ TARGET = ru.template.qmlbook5_chapter4
 CONFIG += \
     auroraapp
 
+
+#--- TO COPY FIES WITH RPM ---
+additional_files.files = assets/*.*
+additional_files.path = /usr/share/ru.template.qmlbook5_chapter4/assets
+INSTALLS += additional_files
+#--- . ---
+
+
 PKGCONFIG += \
 
 SOURCES += \
@@ -11,9 +19,10 @@ SOURCES += \
 HEADERS += \
 
 DISTFILES += \
-    assets/triangle_red.png \
+    assets/*.* \
     qml/chapter13/example_13_3.qml \
     qml/chapter13/example_13_4.qml \
+    qml/chapter13/example_13_4_1.qml \
     qml/chapter4/BlueSquare.qml \
     qml/chapter4/Button2For43.qml \
     qml/chapter4/ButtonFor43.qml \
@@ -84,3 +93,7 @@ DEPLOYMENT += assets/*
 
 RESOURCES += \
     resources.qrc
+
+
+
+
