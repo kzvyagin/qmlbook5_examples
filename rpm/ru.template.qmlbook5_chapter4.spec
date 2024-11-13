@@ -11,6 +11,8 @@ BuildRequires:  pkgconfig(auroraapp)
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
 BuildRequires:  pkgconfig(Qt5Quick)
+BuildRequires:   qt5-qtwebsockets
+BuildRequires:   qt5-qtdeclarative-import-websockets
 
 %description
 Приложение для тестов qmlbook
