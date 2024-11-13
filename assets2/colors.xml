@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Welcome">Welcome! To my home page</string>
+    <string name="Web_name">General View</string>
+    <string-array name="colors">
+        <List>red</List>
+        <List>green</List>
+        <List>black</List>
+        <List>white</List>
+    </string-array>
+</resources>
