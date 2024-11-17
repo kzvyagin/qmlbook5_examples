@@ -24,6 +24,7 @@ DISTFILES += \
     qml/chapter13/example_13_4.qml \
     qml/chapter13/example_13_4_1.qml \
     qml/chapter13/example_13_7.qml \
+    qml/chapter13/example_13_7_2.qml \
     qml/chapter4/BlueSquare.qml \
     qml/chapter4/Button2For43.qml \
     qml/chapter4/ButtonFor43.qml \
