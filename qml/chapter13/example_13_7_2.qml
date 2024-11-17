@@ -4,6 +4,8 @@ import QtWebSockets 1.0
 /*
 to connect to VBox emulator activate third network adapter in VM settings and setup it like a brige to you PC interface
 then gwt IP addres of you PC on the used interface and us IP in connections to nodejs server instead loaclhost
+
+to check you connection with ws use wscat , exmle of usage "wscat -c ws://localhost:3000"
 */
 Page {
     objectName: "example_7_3"
